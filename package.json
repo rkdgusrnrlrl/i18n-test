@@ -1,0 +1,14 @@
+{
+  "name": "i18n-test",
+  "version": "0.0.1",
+  "description": "test i18next middleware",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "i18n"
+  ],
+  "author": "rkdgusrnrlrl@gmail.com",
+  "license": "MIT"
+}
