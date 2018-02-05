@@ -10,5 +10,11 @@
     "i18n"
   ],
   "author": "rkdgusrnrlrl@gmail.com",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "i18next": "^10.3.0",
+    "i18next-express-middleware": "^1.0.9",
+    "i18next-node-fs-backend": "^1.0.0"
+  }
 }
